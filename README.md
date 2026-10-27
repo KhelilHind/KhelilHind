@@ -2,10 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hind+Khelil+%F0%9F%91%8B;Full-Stack+Developer;M.Sc.+Software+Engineering" alt="Typing SVG" /> <br/>
 
-<a href="mailto:hind.khelil2002@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
 </div>
 
 ---
